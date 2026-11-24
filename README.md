@@ -1,4 +1,4 @@
-# Probability-basic-statistics-with-Pandas-and-NumPy
+# -Product-pricing-analysis-using-python-functions
 # Experiment 1.B
 
 ## Aim
